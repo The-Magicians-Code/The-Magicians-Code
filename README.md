@@ -1,4 +1,5 @@
 ### Hi there 👋
+[image](https://github.com/The-Magicians-Code/The-Magicians-Code/assets/60236942/11c42431-0c15-47a6-8cab-17b4a43c3076)
 
 <!--
 **The-Magicians-Code/The-Magicians-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
