@@ -2,9 +2,9 @@
 <p align="center">
   <img src="https://github.com/The-Magicians-Code/The-Magicians-Code/assets/60236942/825d77d3-0e64-44c2-ac44-1a47c5cbe06e"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/The-Magicians-Code/The-Magicians-Code/assets/60236942/6c8f842d-b623-4195-b65f-f8b7e0f726c9"/>
-</p>
+</p> -->
 
 <h1 align="center">Hi, I'm Tanel</h1>
 <h3 align="center">A General Purpose Software Engineer from Estonia</h3>
