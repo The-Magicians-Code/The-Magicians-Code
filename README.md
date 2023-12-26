@@ -9,15 +9,15 @@
 <h1 align="center">Hi, I'm Tanel</h1>
 <h3 align="center">A General Purpose Software Engineer from Estonia</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=the-magicians-code&label=Profile%20views&color=0e75b6&style=flat" alt="the-magicians-code" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=the-magicians-code" alt="the-magicians-code"/>
   </a>
-</p>
+</p> -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
