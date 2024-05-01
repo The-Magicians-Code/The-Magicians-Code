@@ -7,7 +7,7 @@
 </p> -->
 
 <h1 align="center">Hi, I'm Tanel</h1>
-<h3 align="center">a Software Developer from Estonia</h3>
+<h3 align="center">Software Developer from Estonia</h3>
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=the-magicians-code&label=Profile%20views&color=0e75b6&style=flat" alt="the-magicians-code" />
