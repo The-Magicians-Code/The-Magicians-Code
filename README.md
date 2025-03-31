@@ -95,7 +95,7 @@
 </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-magicians-code&show_icons=true&locale=en&layout=compact" alt="the-magicians-code" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-magicians-code&show_icons=true&locale=en&layout=compact" alt="the-magicians-code" /></p> -->
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-magicians-code&show_icons=true&locale=en" alt="the-magicians-code" /></p>
 
