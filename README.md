@@ -1,7 +1,7 @@
 <!-- ![hello-it-have-you-tried](https://github.com/The-Magicians-Code/The-Magicians-Code/assets/60236942/825d77d3-0e64-44c2-ac44-1a47c5cbe06e) -->
-<p align="center">
-  <img src="https://github.com/The-Magicians-Code/The-Magicians-Code/assets/60236942/825d77d3-0e64-44c2-ac44-1a47c5cbe06e"/>
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="https://github.com/The-Magicians-Code/The-Magicians-Code/assets/60236942/825d77d3-0e64-44c2-ac44-1a47c5cbe06e"/> -->
+<!-- </p> -->
 <h1 align="center">Hi, I'm Tanel</h1>
 <p align="center">
   <em>Software engineer, with data driven results</em>
