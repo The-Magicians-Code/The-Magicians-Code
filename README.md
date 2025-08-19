@@ -58,6 +58,9 @@ Focusing on building well optimised applications with great emphasis on user-cen
 * **Data Handling:** Data processing, database management.
 * **Communication:** Clearly articulating technical concepts.
 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-magicians-code&hide=html,typescript,javascript,css,r)-->
+![Top Langs](https://mystats-themagicianscodes-projects.vercel.app/api/top-langs/?username=the-magicians-code)
+
 ## 📫 Contact Me
 
 <p align="left">
