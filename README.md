@@ -59,7 +59,8 @@ Focusing on building well optimised applications with great emphasis on user-cen
 * **Communication:** Clearly articulating technical concepts.
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-magicians-code&hide=html,typescript,javascript,css,r)-->
-![Top Langs](https://mystats-themagicianscodes-projects.vercel.app/api/top-langs/?username=the-magicians-code)
+
+![Top Langs](https://github-readme-stats-ten-xi-37.vercel.app/api/top-langs/?username=the-magicians-code&hide=html,typescript,javascript,css,r)
 
 ## 📫 Contact Me
 
