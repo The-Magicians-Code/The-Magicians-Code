@@ -58,9 +58,21 @@ Focusing on building well optimised applications with great emphasis on user-cen
 * **Data Handling:** Data processing, database management.
 * **Communication:** Clearly articulating technical concepts.
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-magicians-code&hide=html,typescript,javascript,css,r)-->
+![Top Langs](https://github-readme-stats-ten-xi-37.vercel.app/api/top-langs/?username=the-magicians-code&hide=html,matlab,typescript,css,xslt,purebasic,plpgsql,c,m,scss,php,java,ruby,r,mathematica,javascript&size_weight=0.5&count_weight=0.5&theme=dark)
 
-![Top Langs](https://github-readme-stats-ten-xi-37.vercel.app/api/top-langs/?username=the-magicians-code&hide=html,typescript,javascript,css,r)
+<picture>
+  <source
+    srcset="https://github-readme-stats-ten-xi-37.vercel.app/api/?username=the-magicians-code&rank_icon=github&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-ten-xi-37.vercel.app/api/?username=the-magicians-code&rank_icon=github&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats-ten-xi-37.vercel.app/api/?username=the-magicians-code&rank_icon=github&show_icons=true"
+  />
+</picture>
 
 ## 📫 Contact Me
 
