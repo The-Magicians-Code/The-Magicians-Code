@@ -1,68 +1,45 @@
-<!-- ![hello-it-have-you-tried](https://github.com/The-Magicians-Code/The-Magicians-Code/assets/60236942/825d77d3-0e64-44c2-ac44-1a47c5cbe06e) -->
-<!-- <p align="center"> -->
-<!--   <img src="https://github.com/The-Magicians-Code/The-Magicians-Code/assets/60236942/825d77d3-0e64-44c2-ac44-1a47c5cbe06e"/> -->
-<!-- </p> -->
-<h1 align="center">Hi, I'm Tanel</h1>
-<p align="center">
-  <em>Software engineer, with data driven results.</em>
-</p>
+<h1>Tanel Treuberg</h1>
 
-##  About Me
+Software engineer building optimized, user-focused applications.
+Exploring the intersection of elegant code and machine learning.
 
-Focusing on building well optimised applications with great emphasis on user-centric interfaces, exploring machine learning.
 
-## 🛠️ Tools & Technologies
+<br>
 
-**Languages:** <p>
-  ![Languages](https://skillicons.dev/icons?i=python,swift,cpp,bash)
-</p>
 
-**Web & Backend:** <p>
-  ![Web](https://skillicons.dev/icons?i=flask,nginx)
-</p>
+## About
 
-**Databases:** <p>
-  ![DB](https://skillicons.dev/icons?i=postgres,sqlite)
-</p>
+I believe great software should feel effortless to use—the kind where the technology disappears and the experience remains. I focus on crafting applications that balance performance with intuitive design, whether that's optimizing data pipelines or building interfaces people actually enjoy using.
 
-**Data Science & ML:** <p>
-  ![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)
-</p>
+Currently exploring how machine learning can make software more adaptive and intelligent without adding complexity.
 
-**DevOps & Tools:** <p>
-  ![CICD](https://skillicons.dev/icons?i=git,docker,jenkins,postman,github,vscode,xcode)
-</p>
 
-**Platorms:** <p>
-  ![OS](https://skillicons.dev/icons?i=apple,linux)
-</p>
+<br>
 
-## ✨ Skills
-* **Software Development:** Full-stack development, API design, testing.
-* **Problem Solving:** Analytical thinking, debugging, optimisation.
-* **DevOps:** CI/CD pipelines, containerisation, monitoring.
-* **Data Handling:** Data processing, database management.
-* **Communication:** Clearly articulating technical concepts.
 
-![Top Langs](https://github-readme-stats-ten-xi-37.vercel.app/api/top-langs/?username=the-magicians-code&hide=html,matlab,typescript,css,xslt,purebasic,plpgsql,c,m,scss,php,java,ruby,r,mathematica,javascript&size_weight=0.5&count_weight=0.5&theme=dark)
+## Tools & Approach
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-ten-xi-37.vercel.app/api/?username=the-magicians-code&rank_icon=github&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-ten-xi-37.vercel.app/api/?username=the-magicians-code&rank_icon=github&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-readme-stats-ten-xi-37.vercel.app/api/?username=the-magicians-code&rank_icon=github&show_icons=true"
-  />
-</picture>
+Working across the stack with emphasis on thoughtful architecture:
 
-## 📫 Contact Me
+![Tools](https://skillicons.dev/icons?i=python,swift,cpp,flask,postgres,pytorch,docker,git&theme=light)
 
-<p align="left">
-  <a href="mailto:tanel.treuberg@gmail.com" target="_blank"><img alt="Email" src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://linkedin.com/in/taneltreuberg" target="_blank"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
+
+<br>
+
+
+## What I Value
+
+**Clarity over cleverness** — Code that's obvious beats code that's impressive.
+
+**User empathy** — If it works but feels wrong, it's not done.
+
+**Continuous learning** — Technology shifts; curiosity doesn't.
+
+
+<br>
+
+
+## Get in Touch
+
+<a href="mailto:tanel.treuberg@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="32"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/taneltreuberg"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="32"/></a>
