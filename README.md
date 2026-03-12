@@ -3,6 +3,8 @@
   <em>Software engineer, with data driven results.</em>
 </p>
 
+![o2ivfmz4rksc1 jpeg](https://github.com/user-attachments/assets/4dfe7c7b-7198-4794-b217-a92c71d9c775)
+
 ## About Me
 
 Focusing on building well optimised applications with great emphasis on user-centric interfaces, exploring machine learning.
