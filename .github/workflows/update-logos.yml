@@ -2,12 +2,14 @@ name: Update tech-stack logos
 
 # Regenerates the logo grid in README.md from the logos in the assets repo
 # (The-Magicians-Code.github.io). Add/remove an SVG there and this keeps the
-# README in sync — run it on demand from the Actions tab or let the schedule
-# pick it up.
+# README in sync. Runs when the assets repo signals a change
+# (repository_dispatch), on demand, or weekly as a backstop.
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types: [logos-changed]
   schedule:
-    - cron: "0 6 * * 1" # Mondays, 06:00 UTC
+    - cron: "0 6 * * 1" # Mondays, 06:00 UTC (backstop)
 
 permissions:
   contents: write
