@@ -11,29 +11,46 @@ Focusing on building well optimised applications with great emphasis on user-cen
 
 ## Tools & Technologies
 
-**Languages:** <p>
-  ![Languages](https://skillicons.dev/icons?i=python,swift,cpp,bash)
-</p>
-
-**Web & Backend:** <p>
-  ![Web](https://skillicons.dev/icons?i=flask,nginx)
-</p>
-
-**Databases:** <p>
-  ![DB](https://skillicons.dev/icons?i=postgres,sqlite)
-</p>
-
-**Data Science & ML:** <p>
-  ![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)
-</p>
-
-**DevOps & Tools:** <p>
-  ![CICD](https://skillicons.dev/icons?i=git,docker,jenkins,postman,github,vscode,xcode)
-</p>
-
-**Platorms:** <p>
-  ![OS](https://skillicons.dev/icons?i=apple,linux)
-</p>
+<!-- LOGOS:START -->
+<table align="center">
+  <tr>
+    <td align="center" width="110"><img height="48" alt="AWS S3" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/aws-amazon-simple-storage-service.svg"><br>AWS S3</td>
+    <td align="center" width="110"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/bash.dark.svg"><img height="48" alt="Bash" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/bash.svg"></picture><br>Bash</td>
+    <td align="center" width="110"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/cplusplus.dark.svg"><img height="48" alt="C++" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/cplusplus.svg"></picture><br>C++</td>
+    <td align="center" width="110"><img height="48" alt="Docker" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/docker.svg"><br>Docker</td>
+    <td align="center" width="110"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/elasticsearch.dark.svg"><img height="48" alt="Elasticsearch" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/elasticsearch.svg"></picture><br>Elasticsearch</td>
+    <td align="center" width="110"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/flask.dark.svg"><img height="48" alt="Flask" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/flask.svg"></picture><br>Flask</td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img height="48" alt="Git" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/git.svg"><br>Git</td>
+    <td align="center" width="110"><img height="48" alt="GitLab" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/gitlab.svg"><br>GitLab</td>
+    <td align="center" width="110"><img height="48" alt="Grafana" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/grafana.svg"><br>Grafana</td>
+    <td align="center" width="110"><img height="48" alt="GStreamer" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/gstreamer.svg"><br>GStreamer</td>
+    <td align="center" width="110"><img height="48" alt="JavaScript" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/javascript.svg"><br>JavaScript</td>
+    <td align="center" width="110"><img height="48" alt="Jenkins" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/jenkins.svg"><br>Jenkins</td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img height="48" alt="Kubernetes" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/kubernetes.svg"><br>Kubernetes</td>
+    <td align="center" width="110"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/nvidia.dark.svg"><img height="48" alt="NVIDIA" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/nvidia.svg"></picture><br>NVIDIA</td>
+    <td align="center" width="110"><img height="48" alt="ONNX" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/onnx.svg"><br>ONNX</td>
+    <td align="center" width="110"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/openapi.dark.svg"><img height="48" alt="OpenAPI" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/openapi.svg"></picture><br>OpenAPI</td>
+    <td align="center" width="110"><img height="48" alt="OpenCV" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/opencv.svg"><br>OpenCV</td>
+    <td align="center" width="110"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/postgresql.dark.svg"><img height="48" alt="PostgreSQL" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/postgresql.svg"></picture><br>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img height="48" alt="Postman" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/postman.svg"><br>Postman</td>
+    <td align="center" width="110"><img height="48" alt="Python" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/python.svg"><br>Python</td>
+    <td align="center" width="110"><img height="48" alt="PyTorch" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/pytorch.svg"><br>PyTorch</td>
+    <td align="center" width="110"><img height="48" alt="Scrapy" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/scrapy.svg"><br>Scrapy</td>
+    <td align="center" width="110"><img height="48" alt="Selenium" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/selenium.svg"><br>Selenium</td>
+    <td align="center" width="110"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/sqlite.dark.svg"><img height="48" alt="SQLite" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/sqlite.svg"></picture><br>SQLite</td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img height="48" alt="Swift" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/swift.svg"><br>Swift</td>
+    <td align="center" width="110"><img height="48" alt="TensorFlow" src="https://raw.githubusercontent.com/The-Magicians-Code/The-Magicians-Code.github.io/main/src/assets/logos/tensorflow.svg"><br>TensorFlow</td>
+  </tr>
+</table>
+<!-- LOGOS:END -->
 
 ![Top Langs](https://github-readme-stats-ten-xi-37.vercel.app/api/top-langs/?username=the-magicians-code&hide=html,matlab,typescript,css,xslt,purebasic,plpgsql,c,m,scss,php,java,ruby,r,mathematica,javascript&size_weight=0.5&count_weight=0.5&theme=dark)
 
