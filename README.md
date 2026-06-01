@@ -31,7 +31,7 @@ Focusing on building well optimised applications with great emphasis on user-cen
   ![CICD](https://skillicons.dev/icons?i=git,docker,jenkins,postman,github,vscode,xcode)
 </p>
 
-**Platorms:** <p>
+**Platforms:** <p>
   ![OS](https://skillicons.dev/icons?i=apple,linux)
 </p>
 
