@@ -1,7 +1,28 @@
-# Netlify configuration — static site, no build step needed.
+# Netlify config — used for per-PR Deploy Previews and per-branch deploys,
+# mirroring the setup in The-Magicians-Code.github.io. Production hosting
+# stays on GitHub Pages; Netlify is only ever reached through the
+# *.netlify.app preview URLs.
+#
+# One-time setup: connect this repo at app.netlify.com (Add new site → Import
+# an existing project → GitHub → pick this repo). Netlify auto-detects this
+# file. With the Netlify GitHub App installed, every PR gets a Deploy Preview
+# URL posted as a check. No secrets are stored in the repo.
+#
+# To get a URL for every non-main branch, set "Branch deploys" to "All" in the
+# Netlify UI (Site configuration → Build & deploy → Branches and deploy
+# contexts). main is the production branch and is skipped below.
+#
+# Unlike the .github.io repo (Astro: `npm run build` → dist, Node 22), this
+# site is static files with no build step, so we publish the repo root.
 
 [build]
   publish = "."
+
+# Production is skipped: `ignore` exiting 0 tells Netlify "nothing to build".
+# Deploy Previews and branch deploys are separate contexts and still build.
+# If you ever want Netlify to serve this site in production, delete this block.
+[context.production]
+  ignore = "exit 0"
 
 # Generated artwork and styles are immutable; cache them aggressively.
 [[headers]]
