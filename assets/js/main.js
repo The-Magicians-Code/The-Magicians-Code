@@ -7,6 +7,10 @@
 (() => {
   "use strict";
 
+  // The loading state is opted into from JS so the page stays usable
+  // when scripts are disabled or blocked (see <noscript> fallback).
+  document.body.setAttribute("data-loading", "");
+
   const reduceMotion = matchMedia("(prefers-reduced-motion: reduce)").matches;
   const finePointer = matchMedia("(hover: hover) and (pointer: fine)").matches;
   const lerp = (a, b, t) => a + (b - a) * t;
@@ -220,6 +224,7 @@
     menuOpen = open;
     menu.classList.toggle("is-open", open);
     menu.setAttribute("aria-hidden", String(!open));
+    menu.inert = !open;
     burger.setAttribute("aria-expanded", String(open));
     burger.setAttribute("aria-label", open ? "Close menu" : "Open menu");
     document.body.style.overflow = open ? "hidden" : "";
@@ -270,7 +275,8 @@
   if (finePointer && !reduceMotion) {
     document.querySelectorAll("[data-magnetic]").forEach((el) => {
       const strength = 0.28;
-      el.style.display = el.style.display || "inline-block";
+      // transforms need a box; only promote elements the stylesheet left inline
+      if (getComputedStyle(el).display === "inline") el.style.display = "inline-block";
       el.style.transition = "transform .45s cubic-bezier(.22,1,.36,1)";
       el.addEventListener("pointermove", (e) => {
         const r = el.getBoundingClientRect();

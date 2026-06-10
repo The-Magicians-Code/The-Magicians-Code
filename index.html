@@ -14,8 +14,15 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Syne:wght@500;700;800&family=Space+Grotesk:wght@300;400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/main.css">
+  <noscript>
+    <style>
+      .loader, .cursor, .cursor-tag { display: none; }
+      .reveal { opacity: 1; transform: none; }
+      .manifesto__text .w { opacity: 1; }
+    </style>
+  </noscript>
 </head>
-<body data-loading>
+<body>
 
   <!-- Preloader -->
   <div class="loader" id="loader" aria-hidden="true">
@@ -54,7 +61,7 @@
   </header>
 
   <!-- Mobile menu -->
-  <div class="menu" id="menu" aria-hidden="true">
+  <div class="menu" id="menu" aria-hidden="true" inert>
     <nav class="menu__links" aria-label="Menu">
       <a href="#work"><em>01</em>Work</a>
       <a href="#studio"><em>02</em>Studio</a>
